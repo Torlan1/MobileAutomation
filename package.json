@@ -1,0 +1,16 @@
+{
+  "name": "mobileautomation",
+  "version": "1.0.0",
+  "description": "MobileAutomation",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^3.2.0",
+    "protractor": "^5.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "cypress:open": "cypress:open"
+  },
+  "author": "",
+  "license": "ISC"
+}
